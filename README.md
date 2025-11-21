@@ -1,7 +1,7 @@
 # <p align="center">Tieba Lite</p>
 <p align="center">
-    <a href="https://github.com/HuanCheng65/TiebaLite/actions/workflows/build.yml">
-        <img alt="Build Status" src="https://github.com/HuanCheng65/TiebaLite/actions/workflows/build.yml/badge.svg?branch=4.0-dev">
+    <a href="https://github.com/crrs666/TiebaLite/actions/workflows/build.yml">
+        <img alt="Build Status" src="https://github.com/crrs666/TiebaLite/actions/workflows/build.yml/badge.svg?branch=4.0-dev">
     </a>
     <a href="https://t.me/tblite_discuss">
         <img alt="Status" src="https://img.shields.io/badge/-Telegram-blue?logo=telegram&style=flat">
